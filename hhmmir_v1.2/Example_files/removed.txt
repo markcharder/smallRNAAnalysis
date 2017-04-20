@@ -1,0 +1,252 @@
+GGAGCUGCCAGGAGCUCUGGGA
+((((((......))))))....
+>chr1_0 removed due to length = 22
+GUCCCCUACGGGGGACGUG
+((((((....))))))...
+>chr1_0 removed due to length = 19
+GCGGGUGCCGUCUGUGCCUGUUGUGGGCUGGGAAUCAGGAACCCGC
+((((((.((.(((..((((.....))))..)))....)).))))))
+>chr1_0 removed due to length = 46
+CCUCUGGGACGUGAGUCUCCCGAGGACUCA
+((((.(((((....))).)).)))).....
+>chr1_3 removed due to length = 30
+CCCGCCUGGCGGGUCAC
+(((((...)))))....
+>chr1_3 removed due to length = 17
+CGGGCGUCUGGGCCCGUCC
+(((((......)))))...
+>chr1_3 removed due to length = 19
+GGACCUCCCC
+((....))..
+>chr1_3 removed due to length = 10
+CCUGGGGACAGGA
+((((....)))).
+>chr1_4 removed due to length = 13
+CCCCUCAGUGGUCAGGGGACU
+(((((........)))))...
+>chr1_4 removed due to length = 21
+GAUAGGAGGGGACACCCCUCAGUGGUCAGGGGA
+(((..((((((...))))))....)))......
+>chr1_4 removed due to length = 33
+CCUGGGGACAGGAGG
+((((....))))...
+>chr1_4 removed due to length = 15
+GGGGACA
+(....).
+>chr1_4 removed due to length = 7
+GUUGGGGAACGUGGGGACAGGUGUGGGGACAGGA
+(((.....((.((....)).)).....)))....
+>chr1_4 removed due to length = 34
+GGGGACAGGAGUG
+(....).......
+>chr1_4 removed due to length = 13
+GGACAGGUGUGGGGACAGGAGUGGACA
+(..((..(.((....)).)..))..).
+>chr1_4 removed due to length = 27
+GGACAGGUGUGGGGACAGGAGUGGACA
+(..((..(.((....)).)..))..).
+>chr1_5 removed due to length = 27
+GGGCACGUGGGGACAGGAGUGGACA
+(..(((.((....))...)))..).
+>chr1_5 removed due to length = 25
+GGACAGGUGUGGGGACAGGAGUGGACA
+(..((..(.((....)).)..))..).
+>chr1_6 removed due to length = 27
+GUCAGGGGGAACGUGGGGACAGGUGUGGGGAUAGGA
+(((.......((.((....)).)).....)))....
+>chr1_6 removed due to length = 36
+AUGUGGGGACAGGUGUGGGGAUAG
+((.((....)).))..........
+>chr1_6 removed due to length = 24
+GGACAGGUGUGGGGACAGGAGUGGACA
+(..((..(.((....)).)..))..).
+>chr1_6 removed due to length = 27
+ACAUGGGGACAGGU
+((.((....)).))
+>chr1_7 removed due to length = 14
+GAGGGGACACCCCUCAGU
+((((((...))))))...
+>chr1_7 removed due to length = 18
+GGUGACGGGAG
+(....).....
+>chr1_7 removed due to length = 11
+ACUGUGAUGGGAGGGAGGGAGUAUGACAGUAG
+(((((.(((............))).)))))..
+>chr1_7 removed due to length = 32
+CCGGAAUGGAUGGAA
+(((.......)))..
+>chr1_7 removed due to length = 15
+CAGAGGAUGUGAGUGUACAGCUUUGG
+(((((..((((....)))).))))).
+>chr1_7 removed due to length = 26
+GUAUCUGAGACAGGUCUCAGGACAUUUAGAAAGUG
+((.(((((((....)))))))))............
+>chr1_7 removed due to length = 35
+GGUGGCUCACGCCUGUCA
+((((.....)))).....
+>chr1_7 removed due to length = 18
+UCCCAGCACUUUGGGAG
+((((((....)))))).
+>chr1_7 removed due to length = 17
+GUCGGAGGACA
+(((....))).
+>chr1_8 removed due to length = 11
+GGAAACGUCAGACAUGAAUCCAU
+(((....(((....))).)))..
+>chr1_8 removed due to length = 23
+ACGUGUAAGACGAACCUUGGUUCUGUCAAGCGCGUC
+((((((..(((((((....)))).)))..)))))).
+>chr1_8 removed due to length = 36
+GAACAGGCUUUGUGUGAGCGAUAAAGCGGUUCAUU
+((((..((((((((....).))))))).))))...
+>chr1_8 removed due to length = 35
+CACUUGGGUGCAAGUGG
+((((((....)))))).
+>chr1_8 removed due to length = 17
+GCUGAGUCCGAAGAGAGAGUCAGCGAA
+(((((.(((.....).)).)))))...
+>chr1_8 removed due to length = 27
+GACGAACCUUGGUUCUGUCAA
+(((((((....)))).)))..
+>chr1_8 removed due to length = 21
+GAACAGGCUUUGUGUGAGCGAUAAAGCGGUUCAUU
+((((..((((((((....).))))))).))))...
+>chr1_8 removed due to length = 35
+CACUUGGGUGCAAGUGG
+((((((....)))))).
+>chr1_8 removed due to length = 17
+GCUGAGUCCGAAGAGAGAGUCAGCGAAGGGAGAU
+(((((.(((.....).)).)))))..........
+>chr1_8 removed due to length = 34
+GCAAAAGGUGGUUAUCUAUUGU
+((((.((((....)))).))))
+>chr1_8 removed due to length = 22
+GUGCGUGGUGCACA
+((((.....)))).
+>chr1_8 removed due to length = 14
+UUGUCCAGAGGACGAA
+((((((...)))))).
+>chr1_8 removed due to length = 16
+CGGCACAAAGUCGAU
+((((.....))))..
+>chr1_8 removed due to length = 15
+ACGAUAGUAAAAUGUUGUAAUUUUAGUUAA
+((((((......))))))............
+>chr1_8 removed due to length = 30
+CCAGUUAAGGCAGGAACUGG
+((((((........))))))
+>chr1_8 removed due to length = 20
+GGUGGGACUGCUCCACUGGUGGUGAGGCGGGCUUCCAG
+((.((..((((..(((.....)))..)))).)).))..
+>chr1_8 removed due to length = 38
+GUCAUAAGGUAGAUUUUAAAAUUUUCUGACUGGCA
+((((...((.(((((....))))).))...)))).
+>chr1_8 removed due to length = 35
+GUAGAAAGGAAUAUCUGCAUU
+(((((........)))))...
+>chr2_8 removed due to length = 21
+AAGAUAAGAGGAUGUGGAGACGAAGGUUUUUUGUUUUU
+(((((((((((...((....))....))))))))))).
+>chr2_8 removed due to length = 38
+CCAGUGAUGGGGU
+(((....)))...
+>chr2_8 removed due to length = 13
+GUGUUGAAGUGCUCGAAUUACA
+(((((((.....))))..))).
+>chr2_8 removed due to length = 22
+GGCGUGAGCCA
+(((....))).
+>chr2_8 removed due to length = 11
+GCAGAUCACUGCACAG
+((((....))))....
+>chr2_8 removed due to length = 16
+CCGUGCAGGGGGAGGGGAGGCCGUGCAGGGGGA
+((.((((.((..........)).)))).))...
+>chr2_9 removed due to length = 33
+GCCGUGCAGGCAGA
+(((.....)))...
+>chr2_9 removed due to length = 14
+GCAGCGGAGGCCGUGCAGG
+(((.(((...))))))...
+>chr2_9 removed due to length = 19
+CCGUGCAGGGGGAAGGGAGGCCGUGCAGGGGGAAGGGA
+((.((((.((..........)).)))).))........
+>chr2_9 removed due to length = 38
+GGUACGUGCAGGGGGCAGCGGAGGCCGUGCAG
+(((.(((((.....))).))...)))......
+>chr2_9 removed due to length = 32
+CCGUGCAGGGGGAAGGGGGGCCGUGCAGGGGGA
+((.((((.((..........)).)))).))...
+>chr2_9 removed due to length = 33
+GCCGUGCAGGGGGAAGGGAGGCCGUGCAGGC
+(((.((((.((..........)).)))))))
+>chr2_9 removed due to length = 31
+GCAGGGGGCAGCGGAG
+((........))....
+>chr2_9 removed due to length = 16
+CCGUGCAGGGGGAGGGGAGGCCGUGCAGGGGGAAGGGGGG
+((.((((.((..........)).)))).))..........
+>chr2_9 removed due to length = 40
+CCGUGCAGGGGGAAGGGAGGCCGUGCAGGGGGAAGGGAGG
+((.((((.((..........)).)))).))..........
+>chr2_9 removed due to length = 40
+CCGUGCAGGGGGAGGGGAGGCCGUGCAGGGGGAGGGGAGG
+((.((((.((..........)).)))).))..........
+>chr2_9 removed due to length = 40
+CCGUGCAGGGGGAAGGGAGGCCGUGCAGGGGGAAGGGAGG
+((.((((.((..........)).)))).))..........
+>chr2_9 removed due to length = 40
+GCGGAGGCCGUG
+((((...)))).
+>chr2_9 removed due to length = 12
+GGCCGUGCAGGGGGAAGGGGGGCCGU
+((((.(.(........).).))))..
+>chr2_9 removed due to length = 26
+CCGUGCAGGGGGAGGGGGGCCGUGCAGGGGGAA
+((.((((.((.........)).)))).))....
+>chr2_9 removed due to length = 33
+CCGUGCAGGGGGAGGGGAGGCCGUGCAGGGGG
+((.((((.((..........)).)))).))..
+>chr2_9 removed due to length = 32
+CCGUGCAGGCGGAGGGGGGCCGUGCAGGGGGA
+((.(((((((........))).)))).))...
+>chr2_9 removed due to length = 32
+UGCAGGCGGAGCGGGGGGCGUGCAGG
+((((.((..........)).))))..
+>chr2_9 removed due to length = 26
+GGGAGGGGAAGCCGUCCUG
+((((.((....)).)))).
+>chr2_9 removed due to length = 19
+AGCUGGCUGCAGAGAAGGGGCCAGCU
+((((((((.(......).))))))))
+>chr2_9 removed due to length = 26
+CCUCCUGGGCCCAGCAGGC
+(((.(((....))).))).
+>chr2_9 removed due to length = 19
+UCCCUCCCUCCCUCCUUCCGGGCAGCAGGGAA
+(((((.(..(((.......)))..).))))).
+>chr2_9 removed due to length = 32
+GAUCUGAGUUCAUGUAGCUGGUGUUGGCUUAGGGUCU
+(((((((((..(..(.....)..)..))))).)))).
+>chr2_9 removed due to length = 37
+UUAAAUAACUGAGAAUU
+(((......))).....
+>chr3_9 removed due to length = 17
+GCCAAAACAAACAAUGUUUUGGUAUUCCCCAACCUCU
+(((((((((.....)))))))))..............
+>chr3_9 removed due to length = 37
+GCAAUUUGGACAGUGCCUUUUUUAAGGAUCACCUAAGGAGCCA
+((..(((((...(((((((....))))..))))))))..))..
+>chr3_9 removed due to length = 43
+GCAUGGUGACAUGCGCCCUU
+(((((....)))))......
+>chr3_10 removed due to length = 20
+GUCAUUUUUUCCACUAUUGACCAUAUUCAUUGAAU
+((((.............))))..............
+>chr4_12 removed due to length = 35
+GUUUGCCUGUGUGACACAUUUAAACCGGGUAUAACGG
+(((((((((.((...........)))))))).)))..
+>chr4_12 removed due to length = 37
+UUUUAAGGAGCUUAAAUCCACCUUAAAACAAAU
+((((((((.(........).)))))))).....
+>chr4_12 removed due to length = 33
